@@ -1,3 +1,6 @@
-{
-    "Toast" : "The Json Feed Manager will be replaced by 'Channel Feed Manager'."
-}
+[
+    {
+        "Guid" : "825fdfb3a0484ae4acfd4e83f33c07d7",
+        "Toast" : "This is a sample message."
+    }
+]
